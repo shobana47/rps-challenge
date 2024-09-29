@@ -15,4 +15,4 @@ Features
   2.Option to expand with multiplayer mode (player vs player).
   3.Simple user interface (console-based or graphical).
   4.Customizable win conditions (e.g., best of 3, 5, etc.).
- 
+Have fun and try to beat the computer!🎮🤹‍♀️
